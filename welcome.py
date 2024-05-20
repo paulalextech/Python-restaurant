@@ -1,4 +1,4 @@
-print("* Welcome to Python Restaurant App *")
+print("** Welcome to Your Restaurant App   **")
 print("* -------------------------------- *")
 print("* -------------------------------- *")
 print("* -------------------------------- *")
